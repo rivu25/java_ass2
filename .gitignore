@@ -1,0 +1,11 @@
+**/test
+**/build.xml
+**/build/**
+**/build/classes
+**/build/classes
+**/build
+*/**/nbproject
+*/**/manifest.mf 
+
+
+
